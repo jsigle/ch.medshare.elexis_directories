@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eps:eps xmlns:eps="http://www.elexis.ch/eps" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.elexis.ch/eps ../elexis-pro/eps.xsd ">
+	<eps:offer name="medshare-directories" type="Datenaustausch" description="Anbindung von www.weisseseiten.ch" class="plugin"
+		provider="www.jsigle.com and medshare">
+		<eps:doc name="elexis-connect-abxmicros.pdf" /><eps:conditions
+			payable="once"/>
+	</eps:offer>
+</eps:eps>

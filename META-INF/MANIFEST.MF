@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Plugin zur Suche von Adressdaten js
+Bundle-SymbolicName: ch.medshare.elexis_directories;singleton:=true
+Bundle-Version: 1.4.3
+Bundle-Vendor: www.jsigle.com und medshare.ch
+Bundle-Localization: plugin
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.ui,
+ ch.elexis,
+ ch.rgw.utility
